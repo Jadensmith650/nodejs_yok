@@ -1,0 +1,6 @@
+{
+    "tabWidth" : 4,
+    "sami" : false,
+    "singleQuote" : true,
+    "trailingComma" : "es6"
+}
